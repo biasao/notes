@@ -8,6 +8,7 @@
 ### Binary encoding
 - "_For a small dataset, the gains are negligible, but once you get into the terabytes, the choice of data format can have a big impact._"
 - Compression and fast to process -- no parsing. 
+- Field tags are immutable
 
 ### Schema evolution
 - Backward compatibility 

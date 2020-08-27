@@ -12,5 +12,3 @@
 - Code generation and dynamically typed languages
 - Data flow
     - Sync and async communication
-
-
