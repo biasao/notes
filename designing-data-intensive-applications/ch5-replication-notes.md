@@ -11,3 +11,6 @@ The quorum condition, w + r > n, allows the system to tolerate unavailable nod
 - With n = 3, w = 2, r = 2 we can tolerate one unavailable node.
 - With n = 5, w = 3, r = 3 we can tolerate two unavailable nodes.
 - Normally, reads and writes are always sent to all n replicas in parallel. The parameters w andr determine how many nodes we wait for
+
+### Write conflicts
+In order to become eventually consistent, the replicas should converge toward the same value.
