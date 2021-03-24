@@ -1,6 +1,6 @@
 # Chapter 10. Batch Processing
 
-[Chapter 10. Batch Processing in O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch10.html)
+[Chapter 10. Batch Processing at O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch10.html)
 
 ## Topics for discussion
 

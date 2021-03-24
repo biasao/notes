@@ -1,6 +1,6 @@
 # Chapter 7. Transactions
 
-[Chapter 7. Partitioning in O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch07.html)
+[Chapter 7. Partitioning at O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch07.html)
 
 ## Notes
 - Isolation

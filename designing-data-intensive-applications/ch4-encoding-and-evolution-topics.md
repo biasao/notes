@@ -1,6 +1,6 @@
 # Chapter 4. Encoding and Evolution
 
-[Chapter 4. Encoding and Evolution in O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch04.html)
+[Chapter 4. Encoding and Evolution at O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch04.html)
 
 ## Topics for discussion
 

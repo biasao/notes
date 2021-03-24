@@ -1,6 +1,6 @@
 # Chapter 9. Consistency
 
-[Chapter 9. Consistency in O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch09.html)
+[Chapter 9. Consistency at O'reilly](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ch09.html)
 
 ## Notes
 - Linearizability
