@@ -1,6 +1,6 @@
 # Chapter 6. Processing Events with Stateful Functions
 
-[Chapter 6. Processing Events with Stateful Functions](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch06.html)
+[Chapter 6. Processing Events with Stateful Functions at O'reilly](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch06.html)
 
 ## Topics for discussion
 - Dataflow and functional styles

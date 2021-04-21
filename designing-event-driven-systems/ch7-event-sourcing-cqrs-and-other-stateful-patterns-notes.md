@@ -1,6 +1,6 @@
 # Chapter 7. Event Sourcing, CQRS, and Other Stateful Patterns
 
-[Chapter 7. Event Sourcing, CQRS, and Other Stateful Patterns](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch07.html)
+[Chapter 7. Event Sourcing, CQRS, and Other Stateful Patterns at O'reilly](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch07.html)
 
 ## Notes
 - _"In contrast to an update-in-place persistence model like CRUD (create, read, update, delete), the validated order is represented as an entirely new event, being appended to the log rather than overwriting the existing order."_

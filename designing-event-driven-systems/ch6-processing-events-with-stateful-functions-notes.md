@@ -1,6 +1,6 @@
 # Chapter 6. Processing Events with Stateful Functions
 
-[Chapter 6. Processing Events with Stateful Functions](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch06.html)
+[Chapter 6. Processing Events with Stateful Functionsat O'reilly](https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch06.html)
 
 ## Notes
 - _"EJB, while touted as a panacea of its time, fell quickly by the wayside as systems creaked with the pains of tight coupling and the misguided notion that the network was something that should be abstracted away from the programmer."_
